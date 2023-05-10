@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.398a2877.css","mappings":"AAAA,KACE,SACF,CCFA,cACI,UACJ","sources":["App.css","form.css"],"sourcesContent":["body {\n  padding: 0px;\n}",".form , .form *{\r\n    margin: 5px;\r\n}"],"names":[],"sourceRoot":""}
